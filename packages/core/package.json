@@ -101,7 +101,7 @@
     "react-router": "6.30.3",
     "react-router-dom": "6.30.3",
     "rollup": "4.59.0",
-    "rollup-plugin-node-externals": "7.1.2",
+    "rollup-plugin-node-externals": "9.0.1",
     "styled-components": "6.0.7",
     "typescript": "5.7.3"
   },
